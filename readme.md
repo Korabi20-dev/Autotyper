@@ -6,4 +6,6 @@
 
 4.(in the terminal)run yarn add discord.js
 
-5.After you have installed everything run yarn dev and it should work!
+5.Change the Token In config.json
+
+6.After you have installed everything run yarn dev and it should work!
