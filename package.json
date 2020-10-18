@@ -1,0 +1,20 @@
+{
+  "name": "autotyper",
+  "version": "1.0.0",
+  "description": "A simple discord autotyper",
+  "main": "index.js",
+  "repository": "null",
+  "author": "Korabi20",
+  "license": "ISC",
+  "private": "false",
+  "scripts": {
+    "run": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
